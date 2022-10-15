@@ -1,0 +1,28 @@
+body{
+    background: #1F2937;
+    color: azure;
+    margin: 200px auto auto 100px;
+}
+
+h1{    
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+}
+
+h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+    color: #D5D4D8;
+    font-size: 20px;
+    margin-top:5px;
+    margin-bottom: 40px;
+}
+
+.secondpart{
+    display: flex;
+}
+
+span{
+    color:#4ADF86;
+    margin-bottom:5px;
+}
