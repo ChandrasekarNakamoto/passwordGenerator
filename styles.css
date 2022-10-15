@@ -4,7 +4,7 @@ body{
     margin: 200px auto auto 100px;
 }
 
-h1{    
+h1{   
     font-family: 'Karla', sans-serif;
     font-weight: 800;
 }
@@ -14,15 +14,46 @@ h2{
     font-weight: 100;
     color: #D5D4D8;
     font-size: 20px;
-    margin-top:5px;
+    margin-top:0px;
     margin-bottom: 40px;
 }
 
-.secondpart{
+.second{
     display: flex;
 }
 
 span{
     color:#4ADF86;
-    margin-bottom:5px;
+    margin-bottom:0px;
+}
+
+button{
+    background: #10B981;
+    width:191px;
+    font-size: 16px;
+    padding:9px 17px 9px 15px;
+    color:white;
+    border-radius: 6px;
+    border: none;
+
+}
+
+#passone, #passtwo {
+    width: 200px;
+    text-align: center;
+    border-radius: 6px;
+    color: #55F991;
+    background: #273549;
+    padding: 5px 5px;
+    margin-right: 20px;
+    font-weight: lighter;
+}
+
+hr{
+    border:none;
+    border-top: 1px solid #2F3E53;
+    margin-top:30px;
+    width: 30.7%;
+    text-align:left;
+    margin-left:0;
 }
